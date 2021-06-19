@@ -417,7 +417,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: #8e8f90;
 }
 
 .skills .progress .skill .val {
@@ -808,12 +808,13 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact {
+  background: rgba(0, 0, 0, 0.876);
   padding-bottom: 130px;
 }
 
 .contact .info {
   padding: 30px;
-  background: #fff;
+  background: rgb(47, 47, 47);
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
@@ -837,14 +838,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #050d18;
+  color: #ababacc5;
 }
 
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
+  color: #5c94e2;
 }
 
 .contact .info .email p {
